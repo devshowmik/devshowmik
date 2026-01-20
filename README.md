@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devshowmik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshowmik" alt="Trophies" /></a>
-</p>
-
 <p align="center">
   <a href="https://twitter.com/kabir_showmik" target="_blank"><img src="https://img.shields.io/twitter/follow/kabir_showmik?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/shahariar-kabir-showmik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -48,7 +43,7 @@
 ### 🖥️ CMS & E-commerce
 <p align="left">
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="40" height="40"/></a>
-  <a href="https://www.shopify.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="Shopify" width="40" height="40"/></a>
+  <a href="https://www.shopify.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="Shopify" width="40" height="40"/></a>
 </p>
 
 ---
