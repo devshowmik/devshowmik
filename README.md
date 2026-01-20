@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **[OpenBallot](https://openballot.netlify.app/)**
+- 🔭 Currently working on **[OpenBallot](https://openballots.netlify.app/)**
 - 👨‍💻 All of my projects are at [showmik.dev](https://showmik.dev)
 - 💬 Ask me about **WordPress, Shopify, React, Next.js**
 - 📫 Reach me at **showmik21@gmail.com**
