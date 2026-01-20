@@ -43,7 +43,7 @@
 ### 🖥️ CMS & E-commerce
 <p align="left">
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="40" height="40"/></a>
-  <a href="https://www.shopify.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="Shopify" width="40" height="40"/></a>
+  <a href="https://www.shopify.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="Shopify" width="40" height="40"/></a>
 </p>
 
 ---
